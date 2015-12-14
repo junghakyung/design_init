@@ -1,3 +1,6 @@
+/**
+ * Created by junghk on 2015. 12. 15..
+ */
 public abstract class AbstractDisplay {
     public abstract void open();
     public abstract void print();

@@ -1,3 +1,6 @@
+/**
+ * Created by junghk on 2015. 12. 15..
+ */
 public class CharDisplay extends AbstractDisplay {
 
     private char ch;
